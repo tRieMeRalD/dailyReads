@@ -30,3 +30,5 @@ HELP.md
 .vscode/
 
 /src/main/java/com/example/ICSS/config/MongoDBConfig.java
+/node_modules/
+/src/test
